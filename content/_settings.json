@@ -1,0 +1,15 @@
+{
+	"name": "MoyoTecky",
+	"logo": "",
+	
+	"username": {
+		"github": "moyotecky",
+		"medium": "#"
+	},
+
+	"portfolio": { 
+		"forkthis": "welcome to my world🥰",
+		"repo_html": "https://www.github.com/moyotecky",
+		"repo_api": "https://api.github.com/repos/moyotecky"
+	}
+}

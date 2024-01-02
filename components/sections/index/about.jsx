@@ -31,10 +31,10 @@ export default function About() {
 					title="About Me"
 					preTitle="Synopsis"
 					subTitle="With a diverse skill set that includes full stack development, Mobile App Developement, No-code Development, UI/UX and graphics.,  I am a well-rounded digital professional."
-				/>
+				/> 
 				<section className={about.content}>
 					<div className={about.image}>
-						<img src="" alt="MoyoTecky Picture"/>
+						
 						<Image src="/img/me.jpg" width={600} height={800}/>
 					</div>
 					<div className={about.copy} >

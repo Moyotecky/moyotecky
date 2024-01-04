@@ -48,7 +48,7 @@ export default function FeaturedProject({ content }, index) {
 						<Badges list={stack} block="stack" fullContainer={false} color={false} />
 					</div>
 					<m.div variants={''} className={css.viewProject}>
-						<a href={content.url} target='_blank'><Icon icon={[ 'fad', 'arrow-right-to-bracket' ]} /></a>
+						<a href={content.url} target='_blank' rel='noreferrer'><Icon icon={[ 'fad', 'arrow-right-to-bracket' ]} /></a>
 					</m.div>
 				</div>
 			</div>

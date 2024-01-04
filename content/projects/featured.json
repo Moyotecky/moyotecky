@@ -1,10 +1,10 @@
 [
 	{
-		"project": "My Supply Co.",
-		"url": "https://mysupplyco.com",
+		"project": "Kicksciti.",
+		"url": "https://kicksciti.com",
 		"repo": "Private",
-		"descriptionTitle": "D2C & B2B ecommerce site and blog",
-		"description": "with elegant solutions for a complex codebase and customer journey.",
+		"descriptionTitle": "A mobile Ecommerce app for buying shoes",
+		"description": "Immerse yourself in a world where style meets technology. Discover & shop.",
 		"imageOptions": [
 		],
 		"images": [
@@ -13,39 +13,38 @@
 			{ "key": "mock-stack",	"hover": "left",	"h": "1200", "w": "556", "url": "/img/msc-mock_stack/01.png" }
 		],
 		"stack": [
-			{ "key": "php", 		"name": "PHP", 			"type": "devicon" },
-			{ "key": "mysql", 		"name": "mySQL", 		"type": "devicon" },
+			{ "key": "nextjs", 		"name": "NextJs", 			"type": "devicon" },
+			{ "key": "vercel", 		"name": "Vercel", 		"type": "devicon" },
 			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
-			{ "key": "jquery", 		"name": "jQuery", 		"type": "devicon" },
-			{ "key": "woocommerce", "name": "WooCommerce", 	"type": "devicon" },
-			{ "key": "wordpress",	"name": "Wordpress", 	"type": "devicon" },
-			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
-			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "framer-motion", "name": "Framer", 	"type": "devicon" },
+			{ "key": "tailwind",		"name": "TailwindCSS", 		"type": "devicon" },
+			{ "key": "reactnative",		"name": "React Native", 		"type": "devicon" },
 			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
 			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" },
-			{ "key": "google",		"name": "GA4/GTM/EEC", 	"type": "devicon" }
+			{ "key": "amazon",		"name": "aws", 	"type": "devicon" },
+			{ "key": "appstore",		"name": "App Store", 	"type": "devicon" }
 		]
 	},
 	{
-		"project": "andrewnelson.net",
-		"url": "https://github.com/atlamors/portfolio",
-		"repo": "Public",
-		"descriptionTitle": "An open source portfolio",
-		"description": "built on Next.js and React. A fast and agile MERN stack single page application.",
+		"project": "Hallabet",
+		"url": "https://hallabet.com",
+		"repo": "Private",
+		"descriptionTitle": "Best Betting platform",
+		"description": "Best Odds, Instant deposits, Withdrawal & Bonuses.",
 		"imageOptions": [
 			{ "key": "size", 		"value": "large" }
 		],
 		"images": [
-			{ "key": "portfolio", "hover": "left", "h": "797", "w": "556",  "url": "/img/portfolio-mock_single.png" }
+			{ "key": "portfolio", "hover": "left", "h": "797", "w": "500",  "url": "/img/hallabet.png" }
+			
 		],
 		"stack": [
-			{ "key": "nextjs", 		"name": "Next.js", 		"type": "devicon" },
+			{ "key": "javascript", 		"name": "JavaScript", 		"type": "devicon" },
 			{ "key": "react", 		"name": "React", 		"type": "devicon" },
 			{ "key": "nodejs", 		"name": "Node.js", 		"type": "devicon" },
-			{ "key": "mongodb", 	"name": "MongoDB", 		"type": "devicon" },
-			{ "key": "javascript", 	"name": "JavaScript", 	"type": "devicon" },
-			{ "key": "html5",		"name": "HTML5", 		"type": "devicon" },
-			{ "key": "css3",		"name": "CSS3", 		"type": "devicon" },
+			{ "key": "sql", 	"name": "SQL", 		"type": "devicon" },
+			{ "key": "spring", 	"name": "SpringBoot", 	"type": "devicon" },
+			{ "key": "java", 	"name": "Java", 	"type": "devicon" },
 			{ "key": "sass",		"name": "SCSS", 		"type": "devicon" },
 			{ "key": "git",			"name": "Git(Hub)", 	"type": "devicon" }
 		]

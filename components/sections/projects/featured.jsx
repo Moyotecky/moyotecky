@@ -18,17 +18,17 @@ export default function FeaturedProjects() {
 			<Container spacing={'verticalXXXXLrg'}>
 				<SectionTitle
 					title="Featured Projects"
-					preTitle="UX and Full Stack"
+					preTitle="WEB & MOBILE"
 					subTitle="Focused on the experience, driven by the engineering."
 				/> 				{
-				// content.map( (data, index) => {
-				// 	return (
-				// 		<FeaturedProject content={data} index={index} key={index} />
-				// 	)
-				// })
+				content.map( (data, index) => {
+					return (
+						<FeaturedProject content={data} index={index} key={index} />
+					)
+				})
 				}
-				<h2 className='text-center'>Coming soon</h2>
-				<p className='text-center'>projects would be ready in 24hrs</p>
+				{/* <h2 className='text-center'>Coming soon</h2>
+				<p className='text-center'>projects would be ready in 24hrs</p> */}
 			</Container>
 			<div className={css.bgContainer}>
 				<span className={css.orbitalBg}>

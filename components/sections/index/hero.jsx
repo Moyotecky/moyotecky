@@ -1,6 +1,6 @@
 import { useState } 		from 'react';
 import { TypeAnimation } 	from 'react-type-animation';
-
+import Image from 'next/image'
 import Section 		from '../../structure/section';
 import Container 	from '../../structure/container';
 
@@ -64,10 +64,12 @@ export default function Hero() {
 					</p>					
 				</section>
 				<section>
-					<button	className={`button ${button.primary}`}
-							onClick={ () => window.location = 'mailto:moyotecky@gmail.com' } >
-						{content.buttons.primary.title}
-					</button>
+					<a href="/img/resume.pdf" download="resume.pdf">
+						<button className={`button ${button.primary}`}>
+							{content.buttons.primary.title}
+						</button>
+					</a>
+
 					<button className={`button ${button.secondary} leaveSite`}
 							onClick={ ()=> window.open("https://www.linkedin.com/in/moyosoluwalorun-alabi-12b55427a", "_blank") } >
 						{content.buttons.secondary.title}
